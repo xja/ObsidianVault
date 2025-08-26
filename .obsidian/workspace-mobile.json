@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wifite Hashcat.md",
+                "file": "Hashcat/Wifite Hashcat.md",
                 "mode": "preview",
                 "source": false
               },
@@ -171,7 +171,7 @@
   "active": "a264a6f9e8a19840",
   "lastOpenFiles": [
     "Hashcat/Masks For Hashcat WPA Crack.md",
-    "Wifite Hashcat.md",
+    "Hashcat/Wifite Hashcat.md",
     "README.md",
     "Hashcat"
   ]
