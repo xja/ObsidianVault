@@ -1,8 +1,9 @@
 ## 抓包
 ```
-sudo wifite --kill --new-hs -mac --clients-only --no-wps --no-pmkid --skip-crack
+sudo wifite --kill --new-hs -mac --no-wps --skip-crack --no-pmkid #--clients-only
 
 sudo airmon-ng stop wlan0mon
+sudo airmon-ng stop wlan1mon
 sudo systemctl start NetworkManager
 ```
 
